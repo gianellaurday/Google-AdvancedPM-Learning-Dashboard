@@ -109,9 +109,9 @@ Se gestionaron 6 riesgos a lo largo del proyecto: 3 de planificación y ejecuci�
 ### Dashboard — Resumen (Power BI)
 
 <p align="center">
-  <src="Images/dashboard.png" />
+  <img width="50%" src="Images/dashboard.png" />
   <br>
-  <em>Imagen 1: Dashboard de seguimiento. Septiembre 28, 2026.</em>
+  <em>Imagen 1: Dashboard de seguimiento, página Resumen. Septiembre 28, 2026.</em>
 </p>
 
 ### Dashboard — Ágil (Power BI)
