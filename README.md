@@ -116,39 +116,51 @@ Se gestionaron 6 riesgos a lo largo del proyecto: 3 de planificación y ejecuci�
 
 ### Dashboard — Ágil (Power BI)
 
-![Dashboard Ágil](Images/agile.png)
-
-*Imagen 2: Dashboard de seguimiento ágil, con burndown y velocity. Septiembre 28, 2026.*
+<p align="center">
+  <img width="50%" src="Images/agile.png" />
+  <br>
+  <em>Imagen 2: Dashboard de seguimiento ágil, con burndown y velocity. Septiembre 28, 2026.</em>
+</p>
 
 ### Cronograma y Dependencias (Jira)
 
-![Cronograma Jira](Images/jira.png)
-
-*Imagen 3: Vista de Cronograma con dependencias entre cursos y módulos. Septiembre 2026.*
+<p align="center">
+  <img width="50%" src="Images/jira.png" />
+  <br>
+  <em>Imagen 3: Vista de Cronograma con dependencias entre cursos y módulos. Septiembre 2026.</em>
+</p>
 
 ### Tablero Kanban (Jira)
 
-![Tablero Kanban](imagenes/jira-kanban.png)
-
-*Imagen 4: Tablero Por hacer → En curso → Listo. Septiembre 2026.*
+<p align="center">
+  <img width="50%" src="Images/jira-kanban.png" />
+  <br>
+  <em>Imagen 4: Tablero Por hacer → En curso → Listo. Septiembre 2026.</em>
+</p>
 
 ### Cronograma Real (Asana)
 
-![Timeline Asana](Images/cronograma1.png)
-
-*Imagen 5: Vista Timeline con las fechas reales, coloreada por curso. Septiembre 2026.*
+<p align="center">
+  <img width="50%" src="Images/cronograma1.png" />
+  <br>
+  <em>Imagen 5: Vista Timeline con las fechas reales, coloreada por curso. Septiembre 2026.</em>
+</p>
 
 ### Calendario Real (Asana)
 
-![Calendar Asana](Images/calendario-asana.png)
-
-*Imagen 6: Vista calendario, coloreada por curso. Septiembre 2026.*
+<p align="center">
+  <img width="50%" src="Images/calendario-asana.png" />
+  <br>
+  <em>Imagen 6: Vista calendario, coloreada por curso. Septiembre 2026.</em>
+</p>
 
 ### Gestión de Riesgos
 
-![Risk Register](Images/riesgos.png)
-
-*Imagen 7: Risk Register — 6 riesgos identificados y cerrados o resueltos. Septiembre 2026.*
+<p align="center">
+  <img width="50%" src="Images/riesgos.png" />
+  <br>
+  <em>Imagen 7: Risk Register — 6 riesgos identificados y cerrados o resueltos. Septiembre 2026.</em>
+</p>
 
 ## ✍️ Sobre este repositorio
 
