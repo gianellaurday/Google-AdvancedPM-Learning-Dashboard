@@ -1,0 +1,5 @@
+Carpeta creada para PM-003: Advanced Project Management
+(Asana, Jira, Confluence & AI Professional Certificate)
+
+Este archivo es solo un marcador temporal para poder crear la carpeta.
+Puedes eliminarlo una vez que se agreguen los documentos reales.
