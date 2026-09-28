@@ -114,13 +114,13 @@ Se gestionaron 6 riesgos a lo largo del proyecto: 3 de planificación y ejecuci�
 
 **Dashboard — Ágil (Power BI)**
 
-![Dashboard Ágil](images/agile.png)
+![Dashboard Ágil](Images/agile.png)
 
 *Imagen 2: Dashboard de seguimiento ágil, con burndown y velocity. Septiembre 28, 2026.*
 
 **Cronograma y Dependencias (Jira)**
 
-![Cronograma Jira](images/jira.png)
+![Cronograma Jira](Images/jira.png)
 
 *Imagen 3: Vista de Cronograma con dependencias entre cursos y módulos. Septiembre 2026.*
 
@@ -132,15 +132,21 @@ Se gestionaron 6 riesgos a lo largo del proyecto: 3 de planificación y ejecuci�
 
 **Cronograma Real (Asana)**
 
-![Timeline Asana](images/cronograma1.png)
+![Timeline Asana](Images/cronograma1.png)
 
 *Imagen 5: Vista Timeline con las fechas reales, coloreada por curso. Septiembre 2026.*
 
+**Calendario Real (Asana)**
+
+![Calendar Asana](Images/calendario-asana.png)
+
+*Imagen 6: Vista calendario, coloreada por curso. Septiembre 2026.*
+
 **Gestión de Riesgos**
 
-![Risk Register](images/riesgos.png)
+![Risk Register](Images/riesgos.png)
 
-*Imagen 6: Risk Register — 6 riesgos identificados y cerrados o resueltos. Septiembre 2026.*
+*Imagen 7: Risk Register — 6 riesgos identificados y cerrados o resueltos. Septiembre 2026.*
 
 ## ✍️ Sobre este repositorio
 
