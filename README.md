@@ -95,7 +95,7 @@ Se gestionaron 6 riesgos a lo largo del proyecto: 3 de planificación y ejecuci�
 - **Burndown ideal escalonado:** el "restante ideal" baja en módulos completos, según cuándo estaba planeado terminar cada uno, y no como una línea recta suavizada.
 - **Cifras reconciliadas:** las horas de cada curso se validaron contra la suma de sus módulos, de modo que todo el reporte muestra los mismos totales.
 
-## 🛠️ Tecnologías y Herramientas
+# 🛠️ Tecnologías y Herramientas
 
 - Microsoft Power BI Desktop
 - Power Query · DAX
@@ -104,45 +104,47 @@ Se gestionaron 6 riesgos a lo largo del proyecto: 3 de planificación y ejecuci�
 - Microsoft Excel (fuente de datos privada)
 - Advanced Project Management: Asana, Jira, Confluence, and AI (Coursera)
 
-## 📸 Capturas del Proyecto
+# 📸 Capturas del Proyecto
 
-**Dashboard — Resumen (Power BI)**
+### Dashboard — Resumen (Power BI)
 
+<p align="center">
 ![Dashboard](Images/dashboard.png)
 
-*Imagen 1: Dashboard de seguimiento. Septiembre 28, 2026.*
+<em>Imagen 1: Dashboard de seguimiento. Septiembre 28, 2026..</em>
+</p>
 
-**Dashboard — Ágil (Power BI)**
+### Dashboard — Ágil (Power BI)
 
 ![Dashboard Ágil](Images/agile.png)
 
 *Imagen 2: Dashboard de seguimiento ágil, con burndown y velocity. Septiembre 28, 2026.*
 
-**Cronograma y Dependencias (Jira)**
+### Cronograma y Dependencias (Jira)
 
 ![Cronograma Jira](Images/jira.png)
 
 *Imagen 3: Vista de Cronograma con dependencias entre cursos y módulos. Septiembre 2026.*
 
-**Tablero Kanban (Jira)**
+### Tablero Kanban (Jira)
 
 ![Tablero Kanban](imagenes/jira-kanban.png)
 
 *Imagen 4: Tablero Por hacer → En curso → Listo. Septiembre 2026.*
 
-**Cronograma Real (Asana)**
+### Cronograma Real (Asana)
 
 ![Timeline Asana](Images/cronograma1.png)
 
 *Imagen 5: Vista Timeline con las fechas reales, coloreada por curso. Septiembre 2026.*
 
-**Calendario Real (Asana)**
+### Calendario Real (Asana)
 
 ![Calendar Asana](Images/calendario-asana.png)
 
 *Imagen 6: Vista calendario, coloreada por curso. Septiembre 2026.*
 
-**Gestión de Riesgos**
+### Gestión de Riesgos
 
 ![Risk Register](Images/riesgos.png)
 
